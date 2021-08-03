@@ -1,5 +1,5 @@
 # alura-git
-Curso de "Git e Github: Controle e compartilhe seu código"
+Exercício do curso "Git e Github: Controle e compartilhe seu código"
 
 
 # Descrição do Projeto
