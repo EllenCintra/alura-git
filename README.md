@@ -1,5 +1,6 @@
 # alura-git
-Lista de cursos para controlar GIT
+Curso de "Git e Github: Controle e compartilhe seu código"
+
 
 # Descrição do Projeto
-Controle de lista de cursos, feito no curso de "Git e Github: Controle e compartilhe seu código"
+Repositório criado apenas como exercício do curso
