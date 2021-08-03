@@ -1,6 +1,2 @@
-# alura-git
-Exercício do curso "Git e Github: Controle e compartilhe seu código"
-
-
-# Descrição do Projeto
+# Curso-Alura-Git-Github
 Repositório criado apenas como exercício do curso
